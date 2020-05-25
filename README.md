@@ -6,6 +6,7 @@ This app is a mobile running app that will help you start races and manage them 
 
 - You simply need to download Expo, an app that permits to develop apps using Javascript and ReactJS
 - Once you downloaded Expo you need to scan the QR Code, which you'll find on [RunningApp_Solo](https://expo.io/@killiancambert/runningappsolocambertkillian)
+> Note that it may not work on iOS because it's only a published version
 - Then the app will be launched on your phone !
 
 ## Warning
