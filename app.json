@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "RunningAppSolo",
-    "slug": "RunningAppSolo",
+    "slug": "runningappsolocambertkillian",
     "platforms": [
       "ios",
       "android",
@@ -9,11 +9,11 @@
     ],
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/R.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/R.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#ff5757"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -23,6 +23,8 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": "",
+    "githubUrl": "https://github.com/killiancambert/RunningApp_Solo"
   }
 }
